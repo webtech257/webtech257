@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **live projects**
 
-- 📝 I regularly write articles on [coding and ethics](coding and ethics)
+- 📝 I regularly update myself on the new techs
 
 - 💬 Ask me about **Backend development**
 
