@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/malavikasatheesh2007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:malusatheesh07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=webtech257&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -94,8 +94,8 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/webtech257/webtech257/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webtech257/webtech257/output/snake.svg">
   <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
