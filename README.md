@@ -96,7 +96,7 @@ and I solve problems for fun when neither of those is cooperating.
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/webtech257/webtech257/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webtech257/webtech257/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <img src="https://raw.githubusercontent.com/webtech257/webtech257/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
