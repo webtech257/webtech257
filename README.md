@@ -34,7 +34,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
+Hi, I'm **Malavika**. I build things that sit somewhere between Cloud and the web,
 and I solve problems for fun when neither of those is cooperating.
 
 - Currently building focusing on building realtime projects with cloud deployments
